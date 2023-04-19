@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: pomproduct
+    description: Table  that displays the data from PomProduct

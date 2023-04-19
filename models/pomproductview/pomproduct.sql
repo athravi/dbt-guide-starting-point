@@ -1,0 +1,1 @@
+select count(*) from sandbox-07454903.dbt_demo_AR.POMProductView_test
